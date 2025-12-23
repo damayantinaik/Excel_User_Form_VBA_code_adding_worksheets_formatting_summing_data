@@ -16,7 +16,7 @@ The data file and the workbook with User Form along with VBA code can be found a
 
 
 
-The User Form Window and Macro VBA codes can be obtained at :
+The User Form window and Macros with VBA codes can be obtained at:
 
 [User Form Window](https://github.com/damayantinaik/Excel_User_Form_VBA_Code_Adding_Worksheets_Formatting_Summing_Data/blob/main/User_Form_window.png)
 
